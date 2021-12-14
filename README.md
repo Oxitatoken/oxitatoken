@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Oxitatoken/oxitatoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Introducing The Oxita-verse
+Oxita is a remarkable ecosystem consisting of its wallet, exchange, launchpad, NFT Marketplace, and lab…. all under one umbrella! In addition, Oxita is beginning to launch itself as a competition in Metaverse. The concept of Oxita in the Metaverse is of a virtual society with a digital environment that will imitate the real world in an altogether new setting.
+The virtual real estate business is booming in the Metaverse, with a plot sold at a whopping $2.43 million. Experts believe that the young generation is more likely to show interest in outdoor events, shopping, and other everyday activities in the virtual world. It is essential to mention that there are multiple virtual platforms where user-generated digital lands can be brought or sold; one such virtual platform is OXITA!
+The company plans to create; Dubai city, Paris, London, Tokyo, New York on Metaverse, which will be used for purchase, sale, and staking the virtual plots of digital land. The firm will also allow its token holders to enjoy the metaverse experiences through games and earn tokens as rewards.
+In Oxita’s Metaverse, the users will attend virtual events, trade digital goods, play games, hang out with other people, conduct meetings, discussions, and many more. In short, it is like talking about the internet in the 70s when there was a very hazy concept of the internet which has now taken over the world.
+last, But Not Least
+The Oxita project has its multi-chain and non-custodial wallet, where the project’s token holders can easily manage the funds. In addition, the project comes with its exchange for depositing, withdrawing, and swapping digital assets.
+Oxita is unique, transparent, safe, secure, anonymous, decentralized, and democratic, which pledges to become the leading crypto market in the world.
+The Oxita’s Metaverse will be primarily used for purchasing, selling, and staking the virtual plots of digital land. In addition, the firm pledges to build one of the most prominent cities in the Metaverse, such as; Dubai city, Paris, London, Tokyo, New York.
+It will also provide other incredible incentives to its token holders to be authorized to earn money via gaming
